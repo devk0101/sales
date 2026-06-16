@@ -2,29 +2,29 @@
 # Project Overview
 This project presents an end-to-end Sales Analysis Dashboard built using Python, Excel, and Power BI. The goal is to transform raw sales data into actionable business insights through data cleaning, analysis, visualization, and interactive dashboards.
 # Objectives
-Analyze overall sales performance
-Identify top-performing products
-Evaluate product profitability
-Analyze customer purchasing behavior
-Compare regional sales and profit performance
-Build interactive dashboards for decision-making
+- Analyze overall sales performance
+- Identify top-performing products
+- Evaluate product profitability
+- Analyze customer purchasing behavior
+- Compare regional sales and profit performance
+- Build interactive dashboards for decision-making
 # Tools & Technologies
 # Python
-Pandas
-NumPy
-Matplotlib
+- Pandas
+- NumPy
+- Matplotlib
 # Excel
-Pivot Tables
-Pivot Charts
-KPI Dashboard
-Slicers
+* Pivot Tables
+* Pivot Charts
+* KPI Dashboard
+* Slicers
 # Power BI
-KPI Cards
-DAX Measures
-Interactive Dashboards
-Product Analysis
-Customer Analysis
-Regional Analysis
+* KPI Cards
+* DAX Measures
+* Interactive Dashboards
+* Product Analysis
+* Customer Analysis
+* Regional Analysis
 # Dataset
 The dataset contains sales transaction records including:
 Order ID
