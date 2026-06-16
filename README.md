@@ -84,7 +84,8 @@ KPIs:
 <img width="867" height="700" alt="Screenshot 2026-06-16 002830" src="https://github.com/user-attachments/assets/5b42cc6d-92c2-4454-95be-e3155edf9bd6" />
 <img width="897" height="696" alt="Screenshot 2026-06-16 002842" src="https://github.com/user-attachments/assets/8cc3ebcd-ffc6-40cc-856a-1148f3134a7b" />
 <img width="1862" height="661" alt="Screenshot 2026-06-16 205146" src="https://github.com/user-attachments/assets/42950ea1-e764-49c9-8ee2-34a34eb3daf9" />
-<img width="1351" height="742" alt="Screenshot 2026-06-16 205830" src="https://github.com/user-attachments/assets/dbde4923-a8bd-4173-923c-e64b6de3b89b" />
+<img width="1317" height="737" alt="Screenshot 2026-06-16 221553" src="https://github.com/user-attachments/assets/f57be692-c92d-438b-a19c-5f418eafad57" />
+
 # Author
 
 Dev kumar
